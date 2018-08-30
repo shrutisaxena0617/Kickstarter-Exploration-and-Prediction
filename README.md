@@ -1,4 +1,4 @@
-# Kickstarter Model and Prediction - Nexus Edge Data Science Challenge
+# Kickstarter Model and Prediction
 
 ## Description
 
